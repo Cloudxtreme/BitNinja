@@ -1,0 +1,8 @@
+[Sun-Aug-31-00:29:58-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has selected the (Test Man) ninja
+[Sun-Aug-31-00:30:08-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has selected the (The Second Ninja) ninja
+[Sun-Aug-31-00:30:17-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has selected the (Fire) ninja
+[Sun-Aug-31-10:16:39-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged in
+[Sun-Aug-31-10:16:42-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has selected the (Illusion) ninja
+[Sun-Aug-31-10:17:23-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has selected the (Monk) ninja
+[Sun-Aug-31-10:17:46-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has selected the (Fire) ninja
+[Sun-Aug-31-10:17:50-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has selected the (Illusion) ninja

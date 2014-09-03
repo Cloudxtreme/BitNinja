@@ -1,0 +1,32 @@
+[Tue-Sep-02-13:10:45-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged in
+[Tue-Sep-02-13:12:06-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has selected the (Test Man) ninja
+[Tue-Sep-02-13:12:10-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has selected the (Test Man) ninja
+[Tue-Sep-02-13:12:43-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has selected the (Test Man) ninja
+[Tue-Sep-02-13:12:55-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged out
+[Tue-Sep-02-13:13:24-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged in
+[Tue-Sep-02-13:13:26-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has selected the (Fire) ninja
+[Tue-Sep-02-13:21:16-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has selected the (Illusion) ninja
+[Tue-Sep-02-13:40:23-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged out
+[Tue-Sep-02-14:02:41-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged in
+[Tue-Sep-02-14:02:42-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged out
+[Tue-Sep-02-14:03:23-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged in
+[Tue-Sep-02-14:03:24-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged out
+[Tue-Sep-02-14:04:05-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged in
+[Tue-Sep-02-14:04:07-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged out
+[Tue-Sep-02-17:46:07-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged in
+[Tue-Sep-02-17:46:09-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged out
+[Tue-Sep-02-17:46:14-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged in
+[Tue-Sep-02-17:46:15-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged out
+[Tue-Sep-02-17:47:02-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged in
+[Tue-Sep-02-17:47:03-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged out
+[Tue-Sep-02-17:47:38-BRT-2014] : [0:0:0:0:0:0:0:1] : Raul Hess has successfuly logged in
+[Tue-Sep-02-17:47:44-BRT-2014] : [0:0:0:0:0:0:0:1] : Raul Hess has successfuly logged out
+[Tue-Sep-02-22:32:00-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged in
+[Tue-Sep-02-22:33:31-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged in
+[Tue-Sep-02-22:34:12-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged out
+[Tue-Sep-02-22:34:34-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged out
+[Tue-Sep-02-22:35:32-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged in
+[Tue-Sep-02-22:35:33-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged out
+[Tue-Sep-02-22:53:01-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has successfuly logged in
+[Tue-Sep-02-22:53:04-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has selected the (The Second Ninja) ninja
+[Tue-Sep-02-22:53:18-BRT-2014] : [0:0:0:0:0:0:0:1] : Ninja Master has selected the (Illusion) ninja
